@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "crypto-profit-calculator",
+    "slug": "crypto-profit-calculator",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "crypto-profit-calculator"
+}
